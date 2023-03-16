@@ -8,10 +8,10 @@ The inspiration comes from the basic interaction behaviors that can be achieved 
 ## Challenges
 One of the challenges faced was the serial monitor, which posed difficulties in sending data from Arduino to Unity. After overcoming this challenge, another tough issue arose - how to differentiate the messages sent by different sensors to openFrameworks. To address this, if statements were used in Arduino to distinguish between different button situations and assign different values to each button and component to differentiate the commands executed by openFrameworks.
 ### Read the message from arduino
-![pic](https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Screenshot/coding_Screenshot1.png)
+![pic](https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Screenshot/coding_Screenshot3.png)
 
 ### Using if statement in arduino
-![pic](https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Screenshot/coding_Screenshot3.png)
+![pic](https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Screenshot/coding_Screenshot1.png)
 
 ### Distinguish the different value from Arduino in OpenFramework
 ![pic](https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Screenshot/coding_Screenshot2.png)
