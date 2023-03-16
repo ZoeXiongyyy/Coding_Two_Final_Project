@@ -14,6 +14,7 @@ One of the challenges faced was the serial monitor, which posed difficulties in 
 ![pic](https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Screenshot/coding_Screenshot3.png)
 
 ### Distinguish the different value from Arduino in OpenFramework
+![pic](https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Screenshot/coding_Screenshot1.png)
 ![pic](https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Screenshot/coding_Screenshot2.png)
 
 ##Implementation of your system
