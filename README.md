@@ -20,7 +20,7 @@ One of the challenges faced was the serial monitor, which posed difficulties in 
 
 ![pic](https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Screenshot/coding_Screenshot2.png)
 
-## Implementation of your system
+## Implementation of the system
 The system was implemented using Open GL mesh and Maxi library in C++, and two push buttons and a potentiometer as input signals in Arduino. When different buttons are pressed, they send different byte data to openFrameworks, which draws different waveforms based on the values received. Each button also corresponds to a different sound resource and changes the mood of the mesh. When the potentiometer is rotated, the value sent by Arduino is associated with the waveform and mesh color.
 ### Code in OpenFarmework
 #### main.cpp
