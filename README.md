@@ -34,5 +34,5 @@ https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Code/src/ofApp
 https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Code/sketch_feb7a/sketch_feb7a.ino
 
 ## Video link
-
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=098b1a8f-3d69-4759-a4d4-afc700ad5c50
 
