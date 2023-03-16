@@ -30,7 +30,7 @@ https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Code/src/ofApp
 #### ofApp.h
 https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Code/src/ofApp.h
 
-###Code in Arduino
+### Code in Arduino
 https://github.com/ZoeXiongyyy/Coding_Two_Final_Project/blob/main/Code/sketch_feb7a/sketch_feb7a.ino
 
 ## Video link
